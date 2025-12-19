@@ -56,3 +56,6 @@ Transaksi database menggunakan PostgreSQL dengan isolation level default (READ C
 Sistem menjamin at-least-once delivery tanpa double processing
 
 ```
+
+LINK Laporan : https://docs.google.com/document/d/1WL1iLZXFxV_koUuG6WnYXIHS_7EkjIipY0MO_fSgesg/edit?usp=sharing
+LINK Video Demo :  
